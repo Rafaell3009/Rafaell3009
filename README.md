@@ -1,7 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Rafael de Paulo.</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaell3009&show_icons=true&theme=merko)
-
 <h3 align="center">Eu sou apaixonado por ciência e análise de dados no mundo digital!!</h3>
 
 - 🔭 Atualmente procurando oportunidades para a área de analise de dados. Estou também estudando manipulação de dados para insigts, criação de dashboard para tomadas de decisões [Viver de Dados com SQL Server](https://github.com/Rafaell3009/SQL_Server_Projeto02.git)
@@ -17,6 +15,7 @@
 - 📫 Como você me encontra? **rafaelfdepaulo@gmail.com .**
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaell3009&show_icons=true&theme=merko)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
